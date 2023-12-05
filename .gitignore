@@ -1,0 +1,12 @@
+.idea
+vendor/
+/whoami
+dist/
+
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.drawio
+.terraform.lock.hcl
